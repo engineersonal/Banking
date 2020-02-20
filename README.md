@@ -1,5 +1,7 @@
 # Banking
 This program helps us to understand how to solve Banking Problem using abstract classes in Java
+
+
 Description
 People usually take a home loan to buy a new house, and almost every bank offers home loans but the rate of interest varies across banks. You need to suggest a bank to a user on the basis of the interest rate charged to suit their needs. Create an abstract class 'Homeloan' with two abstract methods 'getRateOfIntererst' and ‘getSimpleInterest’. Also, create classes 'Bank1' and 'Bank2' where you can implement the two abstract classes. The rate of interest for Bank 1 is 7.2 and for Bank 2 is 8.1. Using this, you can calculate the simple interest and suggest a bank to the user.
 Note: Simple Interest = (principle*rate*time)/100
